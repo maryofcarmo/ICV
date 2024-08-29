@@ -1,0 +1,91 @@
+Nome: CAMACARI
+Codigo Estacao: 83226
+Latitude: -12.691233
+Longitude: -38.337536
+Altitude: 41.17
+Situacao: Desativada
+Data Inicial: 2000-01-01
+Data Final: 2006-07-24
+Periodicidade da Medicao: Mensal
+
+Data Medicao;DIRECAO PREDOMINANTE DO VENTO, MENSAL(° (gr));EVAPORACAO DO PICHE, MENSAL(mm);EVAPOTRANSPIRACAO POTENCIAL, BH MENSAL(mm);EVAPOTRANSPIRACAO REAL, BH MENSAL(mm);INSOLACAO TOTAL, MENSAL(h);NEBULOSIDADE, MEDIA MENSAL(décimos);NUMERO DE DIAS COM PRECIP. PLUV, MENSAL(número);PRECIPITACAO TOTAL, MENSAL(mm);PRESSAO ATMOSFERICA, MEDIA MENSAL(mB);TEMPERATURA MAXIMA MEDIA, MENSAL(°C);TEMPERATURA MEDIA COMPENSADA, MENSAL(°C);TEMPERATURA MINIMA MEDIA, MENSAL(°C);UMIDADE RELATIVA DO AR, MEDIA MENSAL(%);VENTO, VELOCIDADE MAXIMA MENSAL(m/s);VENTO, VELOCIDADE MEDIA MENSAL(m/s);VISIBILIDADE, MEDIA MENSAL(codigo);
+2000-01-31;null;102,6;null;null;208,8;5,1;17;67,8;1005,6;31,1;26;22,2;80,1;null;null;67,3;null;
+2000-02-29;null;95,6;null;null;160,4;5,1;13;214,6;1006,9;31;26,3;22,2;81,1;null;null;65,8;null;
+2000-03-31;null;87,9;null;null;202,2;5,2;20;138,2;1006,3;30,6;26;22,2;82,3;null;null;66,5;null;
+2000-04-30;null;63,5;null;null;136,7;6,4;24;322,1;1007,6;29,3;25;22;87,3;null;null;60,8;null;
+2000-05-31;null;41,5;null;null;168,7;5,5;22;218;1009,1;28,7;24,3;21,1;87,5;null;null;63,5;null;
+2000-06-30;null;47,5;null;null;140,4;5,7;22;247,6;1011;27,4;23,3;19,9;85,7;null;null;63,5;null;
+2000-07-31;null;57,9;null;null;195,1;5,2;21;183,4;1011,1;27,1;22,4;18,9;85,2;null;null;63,9;null;
+2000-08-31;null;67,1;null;null;153,4;6,7;26;161;1012,1;26,9;22,8;19,7;85,4;null;null;61;null;
+2000-09-30;null;79,6;null;null;169,8;6,2;18;219,9;1010,8;27,8;23,6;20,2;82,2;null;null;61,3;null;
+2000-10-31;null;118,4;null;null;242,8;4,2;10;12,6;1010,1;30,1;25;20,3;76,3;null;null;67,4;null;
+2000-11-30;null;109,1;null;null;224,9;5,7;12;123,4;1007,4;31;25,6;21,5;79,5;null;null;67,5;null;
+2000-12-31;null;119,3;null;null;194,8;5,3;10;61,2;1007,9;31,2;25,9;21,7;78;null;null;65,3;null;
+2001-01-31;null;118,5;null;null;241,7;4,3;15;69,9;1009,6;30,8;25,6;21;77,1;null;null;65,5;null;
+2001-02-28;null;125,9;null;null;220,2;4;12;38,6;1008;32,4;26,6;21,6;74,5;null;null;68,4;null;
+2001-03-31;null;94,9;null;null;218,2;5,4;17;223,9;1008,7;30,8;25,9;21,8;81,2;null;null;66,3;null;
+2001-04-30;null;80,2;null;null;217,9;5,3;23;151,7;1009,7;29,9;24,9;20,5;83,1;null;null;65;null;
+2001-05-31;null;65,3;null;null;204;4,8;20;126,5;1009,6;29,7;25;21,2;86;null;null;61,9;null;
+2001-06-30;null;64,4;null;null;194,4;5,4;27;158,5;1012,8;27,6;23;19,1;86,4;null;null;60,8;null;
+2001-07-31;null;77,2;null;null;194,9;5,9;20;152,8;1013,5;27,1;22,6;18,6;85,5;null;null;59,9;null;
+2001-08-31;null;76;null;null;163;6,8;24;173;1015,9;26,8;22,3;18,5;83,1;null;null;61,8;null;
+2001-09-30;null;74,6;null;null;168,7;5,9;17;185;1011,8;28;23,4;19,3;84;null;null;62,8;null;
+2001-10-31;null;103,2;null;null;187,6;5,4;12;155;1010,4;29,3;24,6;20,5;81,1;null;null;64,7;null;
+2001-11-30;null;124,1;null;null;250,7;3,9;6;16;1008,6;31,1;25,8;20,7;75,6;null;null;68,5;null;
+2001-12-31;null;116,9;null;null;218,1;5,2;13;47,1;1008,3;31,3;26,2;21,8;77,9;null;null;67,1;null;
+2002-01-31;null;87,7;null;null;167,3;6,1;22;237,6;1007,1;30,3;25,4;21,2;80,3;null;null;64,7;null;
+2002-02-28;null;102,4;null;null;207,2;4,6;11;62,6;1008,4;31,3;25,9;21,2;74,9;null;null;66,6;null;
+2002-03-31;null;101,1;null;null;231,4;4,6;20;115,9;1008,5;31,1;25,9;21,2;78,2;null;null;67,9;null;
+2002-04-30;null;86,5;null;null;210,4;4,9;21;66,6;1007,6;30,4;25,3;20,9;80,8;null;null;65,2;null;
+2002-05-31;null;64,7;null;null;171;4,9;19;327,1;1010,6;28,7;24;20;84,4;null;null;65;null;
+2002-06-30;null;60,1;null;null;142,2;6,3;24;186,6;1013,5;null;null;null;86;null;null;62,7;null;
+2002-07-31;null;55,4;null;null;132;6,4;25;179,8;1013,9;27,3;22,8;19,3;87,3;null;null;60,3;null;
+2002-08-31;null;74,3;null;null;187,6;5,6;23;125,1;1014,3;27,5;22,5;18,2;83;null;null;62,1;null;
+2002-09-30;null;77,8;null;null;186,9;5;19;194,2;1012;28,8;23,7;19,8;82,2;null;null;60,2;null;
+2002-10-31;null;133,1;null;null;269;3,4;6;8;1010,7;30;24,6;19,6;74,8;null;null;67,1;null;
+2002-11-30;null;132;null;null;223,9;4,8;12;38,4;1010;30,9;25,6;21,1;75,7;null;null;64,3;null;
+2002-12-31;null;131,3;null;null;216,5;4,7;7;49;1008,7;32,4;26,5;21,7;75,7;null;null;64,5;null;
+2003-01-31;null;158,7;null;null;268,5;3,5;4;4,4;1008,4;33,6;27,5;22,7;73,6;null;null;66,5;null;
+2003-02-28;null;130,2;null;null;225,4;5,1;10;75,9;1009,1;32,5;26,9;22;74,1;null;null;62,5;null;
+2003-03-31;null;91,7;null;null;182,9;5,5;22;157,3;1008,6;31,2;26,4;22,4;81,9;null;null;59,7;null;
+2003-04-30;null;84,6;null;null;221,2;4,6;14;123,3;1009,2;30,9;25,9;21,9;82,2;null;null;62,3;null;
+2003-05-31;null;67,7;null;null;145;6,3;21;500,3;1010,5;29,2;24,6;20,8;86,8;null;null;55,2;null;
+2003-06-30;null;54,9;null;null;142,3;6,2;24;134,5;1012;27,6;23,3;19,1;87,4;null;null;60,2;null;
+2003-07-31;null;72;null;null;177,4;5,6;23;181,1;1014,3;27,3;22,4;18,3;84,7;null;null;62,6;null;
+2003-08-31;null;69,3;null;null;152,9;6,4;21;180,5;1013,7;27,4;22,8;18,8;85,6;null;null;59,7;null;
+2003-09-30;null;85,7;null;null;189,8;5,1;20;152,1;1012,8;28,4;23,4;19,5;83;null;null;62,2;null;
+2003-10-31;null;120,7;null;null;213,7;4,8;14;107,9;1010,9;29,7;24,7;20,7;78,6;null;null;62,4;null;
+2003-11-30;null;103;null;null;190,6;5,5;20;116,8;1009;30,4;25,7;21,9;79,8;null;null;62,3;null;
+2003-12-31;null;129,9;null;null;223,2;4,5;12;35,5;1008,8;32;26,4;22,1;76,6;null;null;66,8;null;
+2004-01-31;null;100,5;null;null;143,2;6,7;22;393,1;1007,2;31,2;26,1;22,6;82,5;null;null;54,4;null;
+2004-02-29;null;92,1;null;null;201,3;5,1;11;64,8;1008,5;31,7;26,5;22,4;80,3;null;null;61,6;null;
+2004-03-31;null;99,2;null;null;181,6;5,6;16;33,9;1008,1;31,3;26,4;22,4;81,2;null;null;61,1;null;
+2004-04-30;null;79,3;null;null;161,4;6;21;281,7;1009,2;30,5;25,6;22,2;84,3;null;null;56,2;null;
+2004-05-31;null;64,2;null;null;188,4;4,9;21;111,7;1010,8;29,4;24,5;21;86;null;null;55,4;null;
+2004-06-30;null;65,5;null;null;182,1;5,1;25;226,3;1014,1;28,1;23,2;19,7;86,2;null;null;50,3;null;
+2004-07-31;null;78,1;null;null;165,5;5,6;24;149,8;1013,4;26,7;22,5;19,1;85,2;null;null;53,8;null;
+2004-08-31;null;67,1;null;null;171,6;5,6;20;146,5;1014,2;27,1;22,4;18,7;86,3;null;null;53,7;null;
+2004-09-30;null;99,5;null;null;177,9;5;11;35,2;1012,9;28,2;23,1;19;79,7;null;null;57,3;null;
+2004-10-31;null;101;null;null;199;4,4;15;120,1;1009,9;29,9;24,8;20,7;80,7;null;null;60,2;null;
+2004-11-30;null;117,6;null;null;207,5;4,8;8;98,8;1008,6;31,1;25,8;21,7;79,8;null;null;59,6;null;
+2004-12-31;null;142,9;null;null;261,4;3,5;2;3,2;1007,9;32,3;26,5;21,9;74,4;null;null;67,7;null;
+2005-01-31;null;134;null;null;222;4,1;7;81,7;1007;33;27,2;23,1;76,5;null;null;64,8;null;
+2005-02-28;null;92,2;null;null;155,8;5,9;11;248;1007,2;31,6;26,7;23,1;81,9;null;null;56,1;null;
+2005-03-31;null;95;null;null;185,9;4,7;12;69,5;1008;31,7;26,7;23,1;81,7;null;null;61,6;null;
+2005-04-30;null;59,7;null;null;119,6;6,7;23;350,1;1009,4;29,7;25,3;22,1;87,9;null;null;56,8;null;
+2005-05-31;null;63;null;null;162,2;5,7;22;303,8;1010,3;29,4;25,2;22,1;87,6;null;null;57,4;null;
+2005-06-30;null;49,2;null;null;124,6;6,7;25;294,7;1012,3;27,8;23,7;20,9;90,1;null;null;50,8;null;
+2005-07-31;null;60,8;null;null;150,8;5,9;26;286,2;1014,5;27;22,7;19,5;87,3;null;null;53,2;null;
+2005-08-31;null;76,9;null;null;173,6;5,4;24;94,5;1014,4;27,6;22,8;19,1;85,8;null;null;54,4;null;
+2005-09-30;null;93,4;null;null;208,4;4,3;8;54,8;1012,4;29,3;24,1;20,1;82,9;null;null;58,5;null;
+2005-10-31;null;125,8;null;null;243,5;3,6;12;21,1;1010,7;30,9;25,2;20,7;76,3;null;null;61,9;null;
+2005-11-30;null;116,4;null;null;191,1;5,2;12;162,3;1008,2;31;25,9;22,1;78,1;4,4;null;53,4;null;
+2005-12-31;14;108,5;null;null;203,4;5,4;12;58,8;1007,3;31,3;26,1;22,1;78,8;5;1,7;53,7;null;
+2006-01-31;14;139,8;null;null;254,5;4,1;12;26,6;1008,4;32,5;26,3;21,9;74,3;4;1,7;58,4;null;
+2006-02-28;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2006-03-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2006-04-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2006-05-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2006-06-30;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+2006-07-31;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;null;
+
